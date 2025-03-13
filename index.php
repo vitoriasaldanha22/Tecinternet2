@@ -1,20 +1,19 @@
-<html>
- <title>Primeira aula</title>
-
- <head>
-
- </head>
-
- <body>
-  <form method = "post"  action = "teste.php">
-    Nome: <input type = "text"  name = "nome"><br>
-    Idade: <input type = "text" name = "idade"><br>
+<!DOCTYPE html>
+<html lang="en">
+<title>Primeira aula</title>
+<head>
+  
+   
+</head>
+<body>
+<form method = "post"  action = "login.php">
+    Usuário: <input type = "text"  name = "usuario"><br>
+    Senha: <input type = "password" name = "senha"><br>
     <input type = "submit" value="enviar">
 
 
 
-  </form>
 
 
- </body>
+</body>
 </html>
